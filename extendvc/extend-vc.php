@@ -19,7 +19,7 @@ vc_map(
 				"heading" => "Blog Title Heading",
 				"param_name" => "blog_title_h",
 				'value' => array(
-						__( 'Default', 'hiifps' ) => 'h2',
+						__( 'Default', 'hiifps' ) => 'h4',
 						'H1' => 'h1',
 						'H2' => 'h2',
 						'H3' => 'h3',
